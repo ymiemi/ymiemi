@@ -13,8 +13,4 @@
 ## 📊 GitHub 统计
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymiemi&layout=compact&theme=radical)
 
-## ✨ 热门仓库
-- [vue3-composition-admin](https://github.com/ymiemi/vue3-composition-admin) - Vue3 管理模板
-- [yyuyang.github.io](https://github.com/ymiemi/yyuyang.github.io) - 个人博客
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ymiemi&theme=radical)
